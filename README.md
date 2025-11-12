@@ -1,6 +1,6 @@
 Web Development
 
-- [HTML tutorial]()
+- [HTML tutorial](https://github.com/charlesliwa/HTML-tutorial)
 - [CSS tutorial]()
 - [JavaScript tutorial]()
 - [React tutorial]()
